@@ -21,3 +21,5 @@ Summary:
 |---------------|-------------------|----------------------------|-----------|------|
 | EXP-01        | Logistic Regression | Bill Length, Bill Depth     | 0.78      | 0.81 |
 | EXP-02        | Decision Tree       | All Numeric Features        | 0.82      | 0.85 |
+| EXP-03        | Random Forest      | All Features + Scaling     | 0.88      | 0.91 |
+| EXP-04        | XGBoost            | Engineered Features        | 0.90      | 0.94 |
